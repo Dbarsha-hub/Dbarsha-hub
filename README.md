@@ -2,11 +2,7 @@
   Hi 👋, I'm Barsha 
 </h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Programmer;DSA+Learner;Open+Source+Enthusiast;Building+Projects+Every+Day;100+Days+of+DSA+Challenge" />
-</p>
 
----
 
 ## 🚀 About Me
 
