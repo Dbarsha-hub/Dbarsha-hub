@@ -3,23 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF3dWl4bnA2bWVzZmhwNTl6eHBtYXF5bmt4bHNldXdwejZmcDYzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="700"/>
 </p>
 
 ## 💻 Tech Stack
