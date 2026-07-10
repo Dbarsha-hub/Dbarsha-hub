@@ -13,12 +13,12 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
+<img src="./assets/JAVA.mp4" width="48" height="48"/>
 <br>Java
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
+<img src="./assets/PYTHON.mp4" width="48" height="48"/>
 <br>Python
 </td>
 
