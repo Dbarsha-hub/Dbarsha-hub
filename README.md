@@ -79,3 +79,9 @@
 <img src="https://komarev.com/ghpvc/?username=Dbarsha-hub&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Dbarsha-hub/Dbarsha-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
