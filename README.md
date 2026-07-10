@@ -2,12 +2,6 @@
   Hi 👋, I'm Barsha 
 </h1>
 
-
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ4cTRmcnVnYWhvZG14OHdrMmJwbXU0MzN6OW50bHc2djhja3BiYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
 # 💻 Tech Stack
 
 ### Languages
