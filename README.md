@@ -2,39 +2,168 @@
   Hi 👋, I'm Barsha 
 </h1>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
+### 📝 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
+<br>Java
+</td>
 
-### Frontend
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
+<br>Python
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
-</p>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
+<br>JavaScript
+</td>
 
-### Backend
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/>
+<br>TypeScript
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
+<br>C
+</td>
+</tr>
+</table>
 
 ---
+
+### 🎨 Frontend
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
+<br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/>
+<br>HTML5
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
+<br>CSS3
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48"/>
+<br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/>
+<br>Bootstrap
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48"/>
+<br>Vite
+</td>
+
+</tr>
+</table>
+
+---
+
+### ⚙️ Backend
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48"/>
+<br>Flask
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/>
+<br>Express
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🗄️ Database
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48"/>
+<br>SQLite
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
+<br>MongoDB
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🛠️ Tools
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/>
+<br>Figma
+</td>
+
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/>
+<br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48"/>
+<br>NPM
+</td>
+
+</tr>
+</table>
 
 # 📊 GitHub Stats
 
