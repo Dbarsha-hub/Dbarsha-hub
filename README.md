@@ -47,11 +47,6 @@
 <tr>
 
 <td align="center" width="96">
-<img src="https://assets-v2.lottiefiles.com/a/b3202668-1151-11ee-939e-cf25d6aad422/LXZKuNhIQ5.gif" width="48" height="48"/>
-<br>React
-</td>
-
-<td align="center" width="96">
   <img src="./assets/react.gif"
        width="48"
        height="48"
@@ -150,7 +145,7 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA" width="48" height="48"/>
+<img src="./assets/github.gif" width="48" height="48"/>
 <br>GitHub
 </td>
 
